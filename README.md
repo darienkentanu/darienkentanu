@@ -5,8 +5,8 @@
 [![darienkentanu](https://img.shields.io/badge/-darienkentanu-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/darienkentanu)](https://github.com/darienkentanu)
 
 
-I have a high interest in programming language especially as a Back-End Engineer. For more than 2 months at [Alterra Academy](https://academy.alterra.id/), I have attended Golang programming language training, Echo framework, GORM, Middleware, MySQL database, unit testing, CI/CD, Deployment Docker on AWS EC2 and Kubernetes.
+I have a high interest in programming language especially as a Back-End Engineer. For more than 2 months at [Alterra Academy](https://academy.alterra.id/), I have attended Golang programming language training, Echo framework, GORM, Middleware, MySQL database, unit testing, CI/CD using Github Action, and Deployment Docker on AWS EC2.
 
 
 ### ⚡️ Skills and Interests
-`Golang`, `Restful API`, `Github`, `Linux CLI`, `MySQL`, `Docker`
+`Golang`, `Restful API`, `Github`, `Linux`, `MySQL`, `Docker`
