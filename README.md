@@ -5,7 +5,7 @@
 [![darienkentanu](https://img.shields.io/badge/-darienkentanu-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/darienkentanu)](https://github.com/darienkentanu)
 
 
-I have a high interest in programming language especially as a Back-End Engineer. For more than 2 months at [Alterra Academy](https://academy.alterra.id/), I have attended Golang programming language training and now i'm currently working as Junior Back End Developer at [Otten Coffee](https://ottencoffee.co.id/).
+I have a high interest in programming language especially as a Back-End Engineer. For more than 2 months at [Alterra Academy](https://academy.alterra.id/)  I have attended Golang programming language training, and now i'm currently working as Junior Back End Developer at [Otten Coffee](https://ottencoffee.co.id/).
 
 
 ### ⚡️ Skills and Interests
